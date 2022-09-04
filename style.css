@@ -1,0 +1,15 @@
+body{
+     text-transform: uppercase;
+} 
+
+.box {
+     height: 40px;
+     width: 40px;
+     background-color: aquamarine;
+     
+}
+
+.front {
+     height: 40px;
+     width: 40px;
+}
