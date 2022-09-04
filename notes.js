@@ -1,27 +1,3 @@
-/* $('.ТЕГ, КЛАС, ІД')
-$('.class)
-var назва(коробка) = значення
-var назва = $('.ТЕГ, КЛАС, ІД').data("назва"); ---перемінна 
-console.log("asdasdas") вивід в консоль
-$('.header__top_burger').click(function(){
- тіло функції все що тут написно буде відображатися після кліку
-});
-click, dblclick, mouseenter-нведення мишки , mouseleave-відведення мишки
-$('button').on('click',function(){ при нажатті буде виконуватися 
-alert('test'); функціонал 
-});
-$(this) - в даний момент 
-$(this).val()- значення де би не було отримати значення 
-.val(valve) - вставти те значення 
-keypress  , keydown  , keyup  , change
- submit - відправка форми 
-hide(швидкість) сховати , show()-показати ,delay() затримка
-$(контент).show(час).delay(time).hide();
-let hello = alert("hello world");*/
-// {} -обєкт
-// [] - массив
-
-
 
 "use strict"
 // умови 
