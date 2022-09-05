@@ -18,3 +18,5 @@ const large = document.querySelector('.front');
 console.log(large);
 
 large.style.backgroundColor = 'aquamarine';
+
+new text
